@@ -1,6 +1,6 @@
-# y
+# vue-demo
 
-> y
+> vue通过http请求java后台数据demo，支持跨域访问数据
 
 ## Build Setup
 
@@ -18,4 +18,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
